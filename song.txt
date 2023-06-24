@@ -4,8 +4,12 @@ well, this is text
 wow, thet is still text
 i need to write something
 
+<<<<<<< HEAD
 meeeehhhhh....
 
 sumno ash za kray
 dali ne pamyatayu
 ---------------------------
+=======
+meeeehhhhh....
+>>>>>>> parent of 856141f (finish second part)
